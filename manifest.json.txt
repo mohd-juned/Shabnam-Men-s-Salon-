@@ -1,0 +1,43 @@
+{
+  "background_color": "#642929",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Shabnam Men’s salon",
+  "orientation": "any",
+  "scope": "/Shabnam Men’s Salon Style. Precision. Innovation.  Experience the future of grooming with the Shabnam Men’s Salon app. We’ve streamlined our services to give you a premium, tech-forward experience that ensures you always look your best with zero friction.  Core App Features  Smart Appointment Booking Book your next cut or trim in seconds. Select your service, choose your favorite stylist, and pick a time slot that fits your schedule. No more waiting in line—just show up and level up.  AI Style Grooming Not sure which look suits you? Use our built-in AI tool to virtually try on different hairstyles and beard shapes. Our advanced tech analyzes your features to recommend the most flattering trends before the first clipper touch.  Visit Location &amp; Navigation Find your way to us instantly. Our integrated map feature provides real-time directions to the salon and allows you to check our current opening hours and contact details with a single tap.",
+  "short_name": "SMS",
+  "start_url": "Shabnam Men’s Salon Style. Precision. Innovation.  Experience the future of grooming with the Shabnam Men’s Salon app. We’ve streamlined our services to give you a premium, tech-forward experience that ensures you always look your best with zero friction.  Core App Features  Smart Appointment Booking Book your next cut or trim in seconds. Select your service, choose your favorite stylist, and pick a time slot that fits your schedule. No more waiting in line—just show up and level up.  AI Style Grooming Not sure which look suits you? Use our built-in AI tool to virtually try on different hairstyles and beard shapes. Our advanced tech analyzes your features to recommend the most flattering trends before the first clipper touch.  Visit Location &amp; Navigation Find your way to us instantly. Our integrated map feature provides real-time directions to the salon and allows you to check our current opening hours and contact details with a single tap./",
+  "theme_color": "#fff0f0",
+  "icons": [
+    {
+      "src": "https://ai.studio/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "SMS",
+  "description": "Shabnam Men’s Salon\nStyle. Precision. Innovation.\n\nExperience the future of grooming with the Shabnam Men’s Salon app. We’ve streamlined our services to give you a premium, tech-forward experience that ensures you always look your best with zero friction.\n\nCore App Features\n\nSmart Appointment Booking\nBook your next cut or trim in seconds. Select your service, choose your favorite stylist, and pick a time slot that fits your schedule. No more waiting in line—just show up and level up.\n\nAI Style Grooming\nNot sure which look suits you? Use our built-in AI tool to virtually try on different hairstyles and beard shapes. Our advanced tech analyzes your features to recommend the most flattering trends before the first clipper touch.\n\nVisit Location &amp; Navigation\nFind your way to us instantly. Our integrated map feature provides real-time directions to the salon and allows you to check our current opening hours and contact details with a single tap.",
+  "lang": "en",
+  "display_override": [
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "business"
+  ],
+  "share_target": {
+    "method": "GET",
+    "params": {
+      "title": "SMS",
+      "text": "Shabnam Men’s Salon ",
+      "url": "https://ai.studio/apps/3a73280f-783b-458d-ac03-1b0d5cec379d"
+    },
+    "action": "\"share_target\": {     \"action\": \"/share-action/\",     \"method\": \"GET\",     \"enctype\": \"application/x-www-form-urlencoded\",     \"params\": {       \"title\": \"title\",       \"text\": \"text\"     } }"
+  }
+}
